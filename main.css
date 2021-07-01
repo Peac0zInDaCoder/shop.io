@@ -1,0 +1,22 @@
+.paper{
+    display:grid;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+
+}
+
+.container{
+    display:grid;
+    text-align: center;
+    width: 100px;
+    height: 400px;
+}
+
+h1{
+    text-align: center;
+    color: black;
+    text-size-adjust: 100px;
+}
+
+
